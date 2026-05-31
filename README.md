@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sharukesh+R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java+Developer+%7C+Building+Robust+Backend+Systems&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sharukesh+R&fontSize=42&fontColor=fff&animation=twinkling&fontAlign=50" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sharukesh+%F0%9F%91%8B;Java+Developer+%7C+Spring+Boot+Enthusiast;REST+API+Architect+%7C+MuleSoft+Explorer;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sharukesh+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full-Stack+Java+Developer;Spring+Boot+Enthusiast;Always+Learning%2C+Always+Growing)](https://github.com/Sharukesh06)
 
 </div>
 
@@ -73,10 +73,10 @@ public class Sharukesh {
 <div align="center">
 
 <a href="https://github.com/Sharukesh06">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sharukesh06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sharukesh06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&text_color=c9cacc" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/Sharukesh06">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharukesh06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharukesh06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9cacc" alt="Top Languages"/>
 </a>
 
 </div>
@@ -87,7 +87,7 @@ public class Sharukesh {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sharukesh06&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sharukesh06&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=70A5FD)](https://github.com/Sharukesh06)
 
 </div>
 
@@ -137,7 +137,7 @@ public class Sharukesh {
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| **[Ekart – Fleet Management REST API](https://github.com/Sharukesh06)** | Java · Spring Boot · Hibernate · SQL · Postman | Capstone project @ Infosys · Designed full RESTful API layer · CRUD operations with JPA/Hibernate ORM |
+| **[Ekart – Fleet Management REST API](https://github.com/Sharukesh06/Ekart-FleetManagement)** | Java · Spring Boot · Hibernate · SQL · Postman | Capstone project @ Infosys · Designed full RESTful API layer · Real-time fleet tracking · Optimized database queries |
 
 </div>
 
@@ -150,7 +150,7 @@ public class Sharukesh {
 | | Achievement | Details |
 |:-:|:-----------:|:-------:|
 | 🏢 | **Joined Infosys** | Selected as System Associate – July 2025 |
-| 🎓 | **Capstone Project — Ekar** | Designed REST APIs for fleet management system |
+| 🎓 | **Capstone Project — Ekart** | Designed REST APIs for fleet management system |
 | 💡 | **Full-Stack REST Skills** | Proficient in end-to-end API lifecycle: design → build → test (Postman) |
 | 🔗 | **Integration Ready** | Hands-on MuleSoft experience for API-led connectivity |
 
