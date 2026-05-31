@@ -170,6 +170,22 @@ public class Sharukesh {
 
 ---
 
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Issuing Organization | Date |
+|:-------------:|:-------------------:|:----:|
+| **Java SE 8 Developer** | Infosys | May 2026 |
+| **Mule 4 Developer** | Infosys | May 2026 |
+| **SQL Certification** | Infosys | Dec 2025 |
+| **Claude 101** | Anthropic | Mar 2026 |
+| **GitHub Copilot** | Infosys | Dec 2025 |
+
+</div>
+
+---
+
 ## 📚 Currently Learning
 
 ```
